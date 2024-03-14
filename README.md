@@ -1,6 +1,3 @@
-Highly motivated aspiring Data Analyst with a background in accounting and finance. Seeking to leverage strong analytical skills, financial acumen, and proficiency in Excel to transition into data analysis. Eager to learn new data tools (Python, SQL) and contribute to data-driven decision making through open-source projects and collaboration.
+Aspiring Data Analyst | Enthusiastic learner seeking to leverage my background in accounting and finance to transition into the data analytics field. Eager to contribute to open-source projects and collaborate with the developer community. Currently pursuing a Master of Business Administration (MBA) in Marketing and Finance at Barkatullah University, Bhopal.
 
-<!---
-PrabalSaxena30/PrabalSaxena30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Connect with me: LinkedIn: www.linkedin.com/in/prabalsaxena2000 
